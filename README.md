@@ -8,7 +8,7 @@
 
 ## 📈GitHub Stats 
 <a href="https://github.com/ahamad-ch/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamad-ch&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamad-ch&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 
 ## 💻Tools & Technologies
