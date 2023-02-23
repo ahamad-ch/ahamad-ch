@@ -7,9 +7,7 @@
 [<img src="https://img.icons8.com/color/48/000000/github-2.png"/>](https://www.ahamadch.com)
 
 ## 📈GitHub Stats 
-<a href="https://github.com/ahamad-ch/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamad-ch&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahamad-ch&theme=violet-punch&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 💻Tools & Technologies
 [<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](#)
